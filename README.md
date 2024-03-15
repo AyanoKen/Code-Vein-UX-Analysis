@@ -1,5 +1,6 @@
 Code Vein – UX Study
 -	By Kireet
+-	
 Code Vein is an action RPG by Bandai Namco Studios. Its set in a post-apocalyptic world with dark and stylised aesthetics reminiscent of anime and gothic fantasy. Its an anime themed souls-like game where the player assumes the role of a Revenant, a vampire like being with supernatural abilities. 
 	One of the standout features of code vein is its character customization which is deep and highly flexible allowing players to design a detailed character. Combat is the other standout feature, as a souls-like game, the combat in code vein is fast paced and action oriented. Players have access to a large variety of weapon types, ability types and upgrades allowing them to mix and match their combat builds in countless ways. 
 
